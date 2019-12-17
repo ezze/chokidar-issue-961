@@ -1,0 +1,12 @@
+{
+  "name": "chokidar-issue-961",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dmitriy Pushkov <ezze@ezze.org>",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.3.1",
+    "execa": "^3.4.0",
+    "fs-extra": "^8.1.0"
+  }
+}
