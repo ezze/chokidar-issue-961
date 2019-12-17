@@ -1,6 +1,6 @@
 # chokidar-issue-961
 
-The purpose of this repo is to reproduce [chokidar](https://github.com/paulmillr/chokidar) issue when copying big files with `rsync` and using option `usePolling=true`. 
+The purpose of this repo is to reproduce [chokidar](https://github.com/paulmillr/chokidar/issues/961) issue when copying big files with `rsync` and using option `usePolling=true`. 
 
 ## How to reproduce
 
